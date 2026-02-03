@@ -8,6 +8,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:**
-- **ID de la Universidad:**
-- **Usuario de Github:**
+- **Nombre completo: Juan Jose Penagos Marin**
+- **ID de la Universidad: 0000350674**
+- **Usuario de Github: juanpenagos18**
